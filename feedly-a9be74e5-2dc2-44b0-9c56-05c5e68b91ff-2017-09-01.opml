@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Şahin subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="tech" title="tech">
+            <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="http://feedproxy.google.com/TechCrunch" htmlUrl="https://techcrunch.com"/>
+            <outline type="rss" text="TheNextWeb.com" title="TheNextWeb.com" xmlUrl="http://feeds.feedburner.com/thenextweb" htmlUrl="https://thenextweb.com"/>
+            <outline type="rss" text="Feed: All Latest" title="Feed: All Latest" xmlUrl="http://feeds.wired.com/wired/index" htmlUrl="https://www.wired.com/latest"/>
+            <outline type="rss" text="ReadWriteWeb" title="ReadWriteWeb" xmlUrl="http://www.readwriteweb.com/rss.xml" htmlUrl="https://readwrite.com"/>
+            <outline type="rss" text="VentureBeat" title="VentureBeat" xmlUrl="http://feeds.feedburner.com/venturebeat" htmlUrl="https://venturebeat.com"/>
+            <outline type="rss" text="The Verge" title="The Verge" xmlUrl="http://www.theverge.com/rss/full.xml" htmlUrl="https://www.theverge.com/"/>
+        </outline>
+        <outline text="Social Commerce" title="Social Commerce">
+            <outline type="rss" text="Social Commerce Today" title="Social Commerce Today" xmlUrl="http://socialcommercetoday.com/feed/" htmlUrl="http://www.therosebery.com"/>
+        </outline>
+        <outline text="UX" title="UX">
+            <outline type="rss" text="smashing magazine" title="smashing magazine" xmlUrl="http://feeds.feedburner.com/SmashingMagazine" htmlUrl="https://www.smashingmagazine.com"/>
+            <outline type="rss" text="Boxes and Arrows" title="Boxes and Arrows" xmlUrl="http://feeds.feedburner.com/BoxesAndArrows_Stories" htmlUrl="http://boxesandarrows.com"/>
+            <outline type="rss" text="The UX Booth" title="The UX Booth" xmlUrl="http://feedproxy.google.com/uxbooth" htmlUrl="http://www.uxbooth.com"/>
+            <outline type="rss" text="GoodUI Blog" title="GoodUI Blog" xmlUrl="http://goodui.org/blog/feed/" htmlUrl="http://goodui.org/blog"/>
+            <outline type="rss" text="User Interface Trends" title="User Interface Trends" xmlUrl="http://feeds.feedburner.com/UserInterfaceTrends" htmlUrl="http://uitrends.com"/>
+            <outline type="rss" text="a list apart" title="a list apart" xmlUrl="http://www.alistapart.com/rss.xml" htmlUrl="https://alistapart.com"/>
+            <outline type="rss" text="Adaptive Path" title="Adaptive Path" xmlUrl="http://feeds.feedburner.com/adaptivepath" htmlUrl="http://adaptivepath.org"/>
+            <outline type="rss" text="UI Movement" title="UI Movement" xmlUrl="http://uimovement.com/feed/" htmlUrl="https://uimovement.com/"/>
+        </outline>
+        <outline text="Growth" title="Growth">
+            <outline type="rss" text="GrowthHackers Trending" title="GrowthHackers Trending" xmlUrl="http://www.growthhackers.com/feed/" htmlUrl="https://growthhackers.com/feed"/>
+            <outline type="rss" text="GrowHack" title="GrowHack" xmlUrl="http://www.growhack.com/feed/" htmlUrl="http://www.growhack.com"/>
+            <outline type="rss" text="SaaStr" title="SaaStr" xmlUrl="http://saastr.com/feed/" htmlUrl="http://www.saastr.com"/>
+        </outline>
+        <outline text="Other" title="Other">
+            <outline type="rss" text="StackShare [Stack News] - &quot;Everything&quot; - sahin" title="StackShare [Stack News] - &quot;Everything&quot; - sahin" xmlUrl="https://stackshare.io/news/1418/1669/feed" htmlUrl="https://stackshare.io"/>
+        </outline>
+        <outline text="Coins" title="Coins">
+            <outline type="rss" text="NEWSBTC" title="NEWSBTC" xmlUrl="http://newsbtc.com/feed/" htmlUrl="http://www.newsbtc.com"/>
+            <outline type="rss" text="ETHNews" title="ETHNews" xmlUrl="https://www.ethnews.com/rss.xml" htmlUrl="https://www.ethnews.com"/>
+            <outline type="rss" text="TokenMarket blog" title="TokenMarket blog" xmlUrl="https://tokenmarket.net/blog/rss" htmlUrl="https://tokenmarket.net/blog/rss"/>
+            <outline type="rss" text="CoinDesk" title="CoinDesk" xmlUrl="http://feeds.feedburner.com/CoinDesk" htmlUrl="https://www.coindesk.com"/>
+        </outline>
+        <outline text="ENG" title="ENG">
+            <outline type="rss" text="High Scalability" title="High Scalability" xmlUrl="http://feeds.feedburner.com/HighScalability" htmlUrl="http://highscalability.com/blog/"/>
+            <outline type="rss" text="AWS Blog" title="AWS Blog" xmlUrl="http://aws.typepad.com/aws/atom.xml" htmlUrl="https://aws.amazon.com/blogs/aws/"/>
+            <outline type="rss" text="Serverless Zone - Medium" title="Serverless Zone - Medium" xmlUrl="https://serverless.zone/feed" htmlUrl="https://serverless.zone?source=rss----930ca641bda8---4"/>
+            <outline type="rss" text="YouTube API Blog" title="YouTube API Blog" xmlUrl="http://apiblog.youtube.com/feeds/posts/default" htmlUrl="http://youtube-eng.googleblog.com/"/>
+        </outline>
+        <outline text="banking tech" title="banking tech">
+            <outline type="rss" text="Capital One Engineering" title="Capital One Engineering" xmlUrl="http://capitalone.io/feed.xml" htmlUrl="http://capitalone.io/"/>
+            <outline type="rss" text="Daily Fintech" title="Daily Fintech" xmlUrl="http://bernardlunn.com/feed/" htmlUrl="https://dailyfintech.com"/>
+            <outline type="rss" text="Bank Innovation" title="Bank Innovation" xmlUrl="http://bankinnovation.net/feed/" htmlUrl="http://bankinnovation.net"/>
+        </outline>
+        <outline text="business" title="business">
+            <outline type="rss" text="Entrepreneur: Latest Articles" title="Entrepreneur: Latest Articles" xmlUrl="http://feeds.feedburner.com/entrepreneur/latest" htmlUrl="https://www.entrepreneur.com/latest?utm_source=Feedly&amp;utm_medium=related&amp;utm_campaign=syndication"/>
+        </outline>
+        <outline text="Futurism" title="Futurism">
+            <outline type="rss" text="Wake Up World" title="Wake Up World" xmlUrl="http://wakeup-world.com/feed/" htmlUrl="https://wakeup-world.com"/>
+            <outline type="rss" text="Futurism" title="Futurism" xmlUrl="http://www.fromquarkstoquasars.com/feed/" htmlUrl="https://futurism.com"/>
+        </outline>
+        <outline text="Personal" title="Personal">
+            <outline type="rss" text="Collective Evolution" title="Collective Evolution" xmlUrl="http://feeds.feedburner.com/Collective-evolution" htmlUrl="http://www.collective-evolution.com"/>
+            <outline type="rss" text="Conscious Lifestyle Magazine" title="Conscious Lifestyle Magazine" xmlUrl="http://www.consciouslifestylemag.com/feed/" htmlUrl="https://www.consciouslifestylemag.com"/>
+        </outline>
+        <outline text="cinema" title="cinema">
+            <outline type="rss" text="FirstShowing.net" title="FirstShowing.net" xmlUrl="http://www.firstshowing.net/feed/?full" htmlUrl="http://www.firstshowing.net"/>
+            <outline type="rss" text="Latest Movie Trailers" title="Latest Movie Trailers" xmlUrl="http://trailers.apple.com/trailers/home/rss/newtrailers.rss" htmlUrl="http://www.apple.com/trailers/"/>
+            <outline type="rss" text="Moviefone News" title="Moviefone News" xmlUrl="http://blog.moviefone.com/rss.xml" htmlUrl="https://www.moviefone.com"/>
+        </outline>
+        <outline text="Movie" title="Movie">
+            <outline type="rss" text="Movie Marketing Update" title="Movie Marketing Update" xmlUrl="http://feeds.feedburner.com/MovieMarketingUpdate" htmlUrl="http://www.indiescene.net/"/>
+        </outline>
+        <outline text="Ar" title="Ar">
+            <outline type="rss" text="AR Blog" title="AR Blog" xmlUrl="http://arblog.inglobetechnologies.com/?feed=rss2" htmlUrl="http://arblog.inglobetechnologies.com"/>
+            <outline type="rss" text="ARLab Blog" title="ARLab Blog" xmlUrl="http://www.arlab.com/blog/feed/" htmlUrl="http://www.arlab.com/blog"/>
+            <outline type="rss" text="AUGMENTED LEGALITY (R)AUGMENTED LEGALITY (R)" title="AUGMENTED LEGALITY (R)AUGMENTED LEGALITY (R)" xmlUrl="http://www.wassom.com/feed" htmlUrl="http://www.wassom.com"/>
+            <outline type="rss" text="VRScout" title="VRScout" xmlUrl="http://vrscout.com/feed/" htmlUrl="https://vrscout.com"/>
+            <outline type="rss" text="Augmented Planet" title="Augmented Planet" xmlUrl="http://www.augmentedplanet.com/feed/" htmlUrl="http://www.augmentedplanet.com"/>
+            <outline type="rss" text="augmented.org" title="augmented.org" xmlUrl="http://www.augmented.org/blog/feed/" htmlUrl="http://www.augmented.org/blog"/>
+            <outline type="rss" text="Augmented Pixels" title="Augmented Pixels" xmlUrl="http://augmentedpixels.com/feed/" htmlUrl="http://augmentedpixels.com"/>
+            <outline type="rss" text="Augmented reality | The Guardian" title="Augmented reality | The Guardian" xmlUrl="http://www.guardian.co.uk/technology/augmented-reality/rss" htmlUrl="https://www.theguardian.com/technology/augmented-reality"/>
+            <outline type="rss" text="AugRay Blog » Feed" title="AugRay Blog » Feed" xmlUrl="http://augray.com/blog/feed/" htmlUrl="http://augray.com/blog"/>
+            <outline type="rss" text="augmented reality – VentureBeat" title="augmented reality – VentureBeat" xmlUrl="http://venturebeat.com/tag/augmented-reality/feed/" htmlUrl="https://venturebeat.com"/>
+            <outline type="rss" text="UgoTrade" title="UgoTrade" xmlUrl="http://www.ugotrade.com/feed/" htmlUrl="http://www.ugotrade.com"/>
+        </outline>
+        <outline text="IPO" title="IPO">
+            <outline type="rss" text="Business Wire IPO News" title="Business Wire IPO News" xmlUrl="http://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeEF9YXQ==" htmlUrl="http://www.businesswire.com/portal/site/home/news/subject/?vnsId=31360"/>
+            <outline type="rss" text="IPO Analysis from Seeking Alpha" title="IPO Analysis from Seeking Alpha" xmlUrl="http://seekingalpha.com/tag/ipo-analysis.xml" htmlUrl="https://seekingalpha.com"/>
+        </outline>
+        <outline text="Apple" title="Apple">
+            <outline type="rss" text="MacRumors: Mac News and Rumors - All Stories" title="MacRumors: Mac News and Rumors - All Stories" xmlUrl="http://feeds.macrumors.com/MacRumors-All" htmlUrl="https://www.macrumors.com"/>
+            <outline type="rss" text="Patently Apple" title="Patently Apple" xmlUrl="http://www.patentlyapple.com/patently-apple/atom.xml" htmlUrl="http://www.patentlyapple.com/patently-apple/"/>
+            <outline type="rss" text="9to5Mac" title="9to5Mac" xmlUrl="http://www.9to5mac.com/rss.xml" htmlUrl="https://9to5mac.com"/>
+        </outline>
+        <outline text="robot" title="robot">
+            <outline type="rss" text="GoRobotics.net - Robotics news and robot projects" title="GoRobotics.net - Robotics news and robot projects" xmlUrl="http://www.gorobotics.net/feed" htmlUrl="http://www.robotshop.com/blog/en"/>
+            <outline type="rss" text="robots.net - Robot news and Robotics Info" title="robots.net - Robot news and Robotics Info" xmlUrl="http://robots.net/rss/articles.xml" htmlUrl="http://robots.net/"/>
+            <outline type="rss" text="Robotics Trends" title="Robotics Trends" xmlUrl="http://www.roboticstrends.com/site/rss" htmlUrl="http://www.roboticstrends.com"/>
+            <outline type="rss" text="ScienceDaily: Artificial Intelligence News" title="ScienceDaily: Artificial Intelligence News" xmlUrl="http://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"/>
+        </outline>
+        <outline text="FB &amp; Google" title="FB &amp; Google">
+            <outline type="rss" text="Facebook Developer Blog" title="Facebook Developer Blog" xmlUrl="https://developers.facebook.com/blog/feed" htmlUrl="https://developers.facebook.com/blog/"/>
+            <outline type="rss" text="Gmail Blog" title="Gmail Blog" xmlUrl="http://gmailblog.blogspot.com/atom.xml" htmlUrl="http://www.blog.google:443/products/gmail/"/>
+            <outline type="rss" text="Google Mobile Blog" title="Google Mobile Blog" xmlUrl="http://googlemobile.blogspot.com/atom.xml" htmlUrl="http://googlemobile.blogspot.com/"/>
+            <outline type="rss" text="Google Operating System" title="Google Operating System" xmlUrl="http://feeds.feedburner.com/GoogleOperatingSystem" htmlUrl="http://googlesystem.blogspot.com/"/>
+            <outline type="rss" text="The Official Google Blog" title="The Official Google Blog" xmlUrl="http://googleblog.blogspot.com/atom.xml" htmlUrl="http://www.blog.google:443/"/>
+            <outline type="rss" text="Think with Google - Discover Marketing Research &amp; Digital Trends" title="Think with Google - Discover Marketing Research &amp; Digital Trends" xmlUrl="http://feeds.feedburner.com/google/think" htmlUrl="https://www.thinkwithgoogle.com/"/>
+            <outline type="rss" text="Inside AdWords" title="Inside AdWords" xmlUrl="http://adwords.blogspot.com/atom.xml" htmlUrl="http://adwords.googleblog.com/"/>
+            <outline type="rss" text="Google Reader" title="Google Reader" xmlUrl="http://feeds.feedburner.com/blogspot/dtKx" htmlUrl="http://googlereader.blogspot.com/"/>
+            <outline type="rss" text="Google Analytics Blog" title="Google Analytics Blog" xmlUrl="http://feeds.feedburner.com/blogspot/tRaA" htmlUrl="http://analytics.googleblog.com/"/>
+        </outline>
+        <outline text="SASS" title="SASS">
+            <outline type="rss" text="Microsoft Azure Blog" title="Microsoft Azure Blog" xmlUrl="http://azure.microsoft.com/blog/feed/" htmlUrl="https://azure.microsoft.com/blog/"/>
+        </outline>
+        <outline text="Hacker News" title="Hacker News">
+            <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="http://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
+        </outline>
+        <outline text="Life Hacker" title="Life Hacker">
+            <outline type="rss" text="Lifehacker" title="Lifehacker" xmlUrl="http://feeds.gawker.com/lifehacker/vip" htmlUrl="http://lifehacker.com"/>
+        </outline>
+        <outline text="Startup" title="Startup">
+            <outline type="rss" text="Inc.com" title="Inc.com" xmlUrl="http://www.inc.com/rss.xml" htmlUrl="https://www.inc.com/"/>
+        </outline>
+        <outline text="seo" title="seo">
+            <outline type="rss" text="Submitedge - Search Engine Optimization Blog" title="Submitedge - Search Engine Optimization Blog" xmlUrl="http://feeds.feedburner.com/Submitedge-SearchEngineOptimizationBlog" htmlUrl="https://www.submitedgeseo.com/blog"/>
+            <outline type="rss" text="SEOmoz Daily SEO Blog" title="SEOmoz Daily SEO Blog" xmlUrl="http://feeds.feedburner.com/seomoz" htmlUrl="https://moz.com/blog"/>
+            <outline type="rss" text="Matt Cutts: Gadgets, Google, and SEO" title="Matt Cutts: Gadgets, Google, and SEO" xmlUrl="http://www.mattcutts.com/blog/feed/" htmlUrl="https://www.mattcutts.com/blog"/>
+            <outline type="rss" text="Search Engine Land: News About Search Engines &amp; Search Marketing" title="Search Engine Land: News About Search Engines &amp; Search Marketing" xmlUrl="http://feeds.searchengineland.com/searchengineland" htmlUrl="http://searchengineland.com"/>
+        </outline>
+        <outline text="ASO" title="ASO">
+            <outline type="rss" text="App store Intelligence" title="App store Intelligence" xmlUrl="http://feeds.feedburner.com/Appfigures" htmlUrl="http://blog.appfigures.com"/>
+        </outline>
+        <outline text="tesla" title="tesla">
+            <outline type="rss" text="www.teslamotors.com/blog/feed" title="www.teslamotors.com/blog/feed" xmlUrl="http://www.teslamotors.com/blog/feed" htmlUrl="https://www.tesla.com/blog/feed"/>
+        </outline>
+        <outline text="Teknoloji" title="Teknoloji">
+            <outline type="rss" text="Webrazzi" title="Webrazzi" xmlUrl="http://feeds.feedburner.com/webrazzi" htmlUrl="https://webrazzi.com"/>
+        </outline>
+        <outline text="Stacks" title="Stacks">
+            <outline type="rss" text="StackShare [Stack News] - &quot;Sass&quot; - sahin" title="StackShare [Stack News] - &quot;Sass&quot; - sahin" xmlUrl="https://stackshare.io/news/1418/1052/feed" htmlUrl="https://stackshare.io"/>
+        </outline>
+        <outline text="Science" title="Science">
+            <outline type="rss" text="Scene 360 Illusion" title="Scene 360 Illusion" xmlUrl="http://feeds.feedburner.com/Scene360Illusion" htmlUrl="http://illusion.scene360.com"/>
+            <outline type="rss" text="New Scientist - Online News" title="New Scientist - Online News" xmlUrl="http://www.newscientist.com/feed.ns?index=online-news" htmlUrl="https://www.newscientist.com"/>
+            <outline type="rss" text="DARPA News RSS" title="DARPA News RSS" xmlUrl="http://www.darpa.mil/Rss.aspx?Colid=24" htmlUrl="http://www.darpa.mil/Rss.aspx?Colid=24"/>
+            <outline type="rss" text="gizmag Emerging Technology Magazine" title="gizmag Emerging Technology Magazine" xmlUrl="http://gizmag.com/xml/" htmlUrl="http://newatlas.com/"/>
+        </outline>
+    </body>
+</opml>
