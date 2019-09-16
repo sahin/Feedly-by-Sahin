@@ -4,7 +4,7 @@
 * Stylish https://userstyles.org/styles/127167/feedly-faster-reading-with-big-titles
 
 # Important Settings
-
+![My feedly settings](feedly_settings.png "Feedly Setting")
 
 
 # Screenshot of my sources
